@@ -165,16 +165,16 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--cloud-color);
+    color: var(--iris-color);
 }
 
 .footer-logo {
-    color: var(--iris-color);
+    color: var(--cloud-color);
 }
 
 .footer-text {
